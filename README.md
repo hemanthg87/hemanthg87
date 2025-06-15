@@ -45,22 +45,22 @@
 
 ### 📈 GitHub Stats
 
-![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanth-g-07&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=hemanth-g-07&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-g-07&layout=compact&theme=radical)
+![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthg87&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=hemanthg87&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthg87&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hemanth-g-07&theme=radical&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hemanthg87&theme=radical&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanth-g-07&repo=E-Learning-Flask-App&theme=radical)](https://github.com/hemanth-g-07/E-Learning-Flask-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanth-g-07&repo=Battery-Charger-Monitoring&theme=radical)](https://github.com/hemanth-g-07/Battery-Charger-Monitoring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthg87&repo=E-Learning-Flask-App&theme=radical)](https://github.com/hemanthg87/E-Learning-Flask-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthg87&repo=Battery-Charger-Monitoring&theme=radical)](https://github.com/hemanthg87/Battery-Charger-Monitoring)
 
 ---
 
