@@ -60,7 +60,7 @@
 ### 📌 Pinned Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthg87&repo=elearning-project&theme=radical)](https://github.com/hemanthg87/elearning-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthg87&repo=Battery-Charger-Monitoring&theme=radical)](https://github.com/hemanthg87/Battery-Charger-Monitoring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthg87&repo=Battery-Charger-Monitoring&theme=radical)](https://github.com/hemanthg87/vehicle-booking-platform)
 
 ---
 
