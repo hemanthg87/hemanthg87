@@ -59,7 +59,7 @@
 
 ### 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthg87&repo=E-Learning-Flask-App&theme=radical)](https://github.com/hemanthg87/E-Learning-Flask-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthg87&repo=elearning-project&theme=radical)](https://github.com/hemanthg87/elearning-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hemanthg87&repo=Battery-Charger-Monitoring&theme=radical)](https://github.com/hemanthg87/Battery-Charger-Monitoring)
 
 ---
