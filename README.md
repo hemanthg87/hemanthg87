@@ -57,13 +57,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-[![Readme Card](https://github.com/hemanthg87/elearning-project)
-[![Readme Card](https://github.com/hemanthg87/vehicle-booking-platform)
-
----
-
 ### 🚀 Let's Build Together!
 
 *I'm always open to ideas, collaboration, or just a good tech chat. Feel free to connect!*
